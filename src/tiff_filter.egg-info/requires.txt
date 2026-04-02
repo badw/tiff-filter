@@ -1,0 +1,14 @@
+numpy
+tqdm
+sympy
+rasterio
+open3d
+natsort
+scipy
+sparse
+pytest
+tqdm_pathos
+
+[dev]
+pytest>=7.4.0
+pytest-cov>=3.0.0
